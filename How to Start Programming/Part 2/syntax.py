@@ -5,10 +5,10 @@ print('Hello, World!')
 age = 19
 
 # Example of a Float in Python
-height = 6.25 # Translates to 6 foot 3 inches
+height = 6.2562890
 
 # Example of a Double in Python
-height = 6.25 # Translates to 6 foot 3 inches
+height = 6.256289043167382
 
 # Example of a String in Python
 name = 'Joshua Lim'
